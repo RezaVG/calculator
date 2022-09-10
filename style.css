@@ -47,6 +47,7 @@ button {
   font-size: 18px;
 }
 
-.operator {
+.operator,
+.Equals {
   background-color: #19f1ac;
 }
